@@ -1,0 +1,20 @@
+.submit {
+    background-color: #bcf2df;
+    width: 20%;
+    height: 25px;
+    border: none;
+    transition-duration: 0.4s;
+}
+
+.submit:hover {
+    background-color: #bcf2df;
+    color: rgb(0, 0, 0);
+}
+input[type=number] {
+    width: 20%;
+    height: 25px;
+    border: none;
+    background-color: #bcf2df;
+    color: rgb(0, 0, 0);
+    margin: 8px 0;
+  }
