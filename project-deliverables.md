@@ -79,10 +79,11 @@ Make a post on slack (or link to your own notebook) with the following:
 1. The set consists of both quantative and qualitative data. Data entries such as location (longitude, lattitude), percentage bleached and and coral depths being continuous quantiative, and data describing the corals and reef sites nominal qualitative. 
 
 2. I hope the audience can get deeper knowledge of the corals and the effect that sea temperature causes on coral bleaching. The data visualization could answer the following questions:
-Where and when was the coral reef observed? 
-Has the coral changed between two different observations?
-Which factors such as wind level, turbidity and exposure was present during the observation?
-What is the overall status for coral reefs in the world, and based of the observations from 1980 to the present, can we say anything about the future of the corals?
+
+- Where and when was the coral reef observed? 
+- Has the coral changed between two different observations?
+- Which factors such as wind level, turbidity and exposure was present during the observation?
+- What is the overall status for coral reefs in the world, and based of the observations from 1980 to the present, can we say anything about the future of the corals?
 
 3. Brainstorm of titles:
 Corals, Palette of the Sea, Colors of the Deep, Coral Chronicles.
